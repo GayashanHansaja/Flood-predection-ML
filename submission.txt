@@ -1,10 +1,8 @@
 Dataset Link:
 https://www.kaggle.com/datasets/naiyakhalid/flood-prediction-dataset
 
-V. Realinho, M. Vieira Martins, J. Machado, and L. Baptista. "Predict Students' Dropout and Academic Success," UCI Machine Learning Repository, 2021. [Online]. Available: https://doi.org/10.24432/C5MC89.
-
 Public GitHub Repository Link:
 https://github.com/GayashanHansaja/student-graduate-prediction-ML
 
-YouTube Presentation Link:
+YouTube Demo Link: 
 https://youtube.com/your-video-link

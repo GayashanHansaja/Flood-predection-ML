@@ -1,4 +1,17 @@
-Hansaja A.M.G              = IT22171856 = IT22171856@my.sliit.lk
-Dharmasiri I. D. N. D      = IT22254320 = IT22254320@my.sliit.lk
-Sanjeewa P. D. L. B        = IT22629708 = IT22629708@my.sliit.lk
-Aluthwaththa A. W. D. S. M = IT22267290 = IT22267290@my.sliit.lk
+# Members
+
+Hansaja A. M. G
+IT22171856
+it22171856@my.sliit.lk
+
+Dharmasiri I. D. N. D
+IT22254320
+it22254320@my.sliit.lk
+
+Sanjeewa P. D. L. B
+IT22629708
+it22629708@my.sliit.lk
+
+Aluthwaththa A. W. D. S. M
+IT22267290
+it22267290@my.sliit.lk
